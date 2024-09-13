@@ -203,6 +203,29 @@ body {
     color: #ededed;
 }
 
+.btn-container {
+    text-align: center; 
+    margin-top: 20px;   
+}
+
+.btn-box {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #147bbc; 
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: 0.3s ease;
+}
+
+.btn-box:hover {
+    background-color: #0f6cae; 
+    transform: scale(1.05); 
+}
+
+
+
 .timeline {
     display: flex;
     flex-direction: column;

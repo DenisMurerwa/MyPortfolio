@@ -1,1 +1,1 @@
-I came up with this project out of my own creativity with the help of Youtube tutorials and AI
+Welcome to my portfolio project! This portfolio showcases my skills, projects, and a bit about me as a developer. It's a place where you can learn about my programming abilities, explore the projects I've worked on, and get in touch with me.
